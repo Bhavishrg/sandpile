@@ -1,0 +1,12 @@
+Sandpile(N, critLevel, iterations, mode="Random", initMode='RandomInt', animated=False, save = True)
+
+
+                               Parameters
+
+ N = Size of Grid
+ critLevel = Critical Level
+ iterations = Number of iterations
+ mode = Random, SpecificCorners, SpecificMiddle
+ initMode = RandomInt, RandomFloat, Static, NearCrit, OverCrit
+ animated = Set to true if you want to see animation
+ save = Set to true to save the file
